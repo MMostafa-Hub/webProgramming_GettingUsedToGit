@@ -1,0 +1,20 @@
+#bruh {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+span {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.section:hover {
+    color: #5cf068;
+}

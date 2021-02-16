@@ -1,0 +1,15 @@
+$color :red;
+
+ul {
+    color: $color;
+}
+
+%msg {
+    font-size: large;
+    font-family: fantasy;
+}
+
+.success {
+    @extend %msg;
+    color: #445ddd;
+}
